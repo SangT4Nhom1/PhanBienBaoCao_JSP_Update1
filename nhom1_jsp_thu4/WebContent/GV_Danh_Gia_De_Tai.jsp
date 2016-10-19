@@ -92,9 +92,9 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="control-label col-sm-2" for="GiaoVienHD">Tóm Tắt:</label>
+                    <label class="control-label col-sm-2" for="GiaoVienHD">Nhận Xét:</label>
                     <div class="col-md-10">
-                         <textarea type="text" class="form-control" rows="5" id="TomTat" placeholder="Tóm Tắt" data-bv-notempty data-bv-notempty-message="Nhập tóm tắt đề tài"></textarea>
+                         <textarea type="text" class="form-control" rows="5" id="Nhận Xét" placeholder="Nhận Xét" data-bv-notempty data-bv-notempty-message="Nhập Nhận Xét đề tài"></textarea>
                     </div>
                   </div>
                   <div class="form-group">         
